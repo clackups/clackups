@@ -28,9 +28,9 @@ easier accessibility (such as issuing a Ctrl-Alt-Del with one hand).
 
 * **NuPhy Air60 V2**, optiized for one-handed input: it's a neat
     low-profile 3-mode keyboard (wired, Bluetooth, and 2.4Ghz dongle),
-    about twice as expensive as the YD60MQ, and it supports both Mac
-    and Windows layouts. [Description in
-    English](https://github.com/clackups/qmk_firmware/blob/clackups/keyboards/nuphy/air60_v2/clackups/readme.md).
+    about 2-3 times more expensive than the YD60MQ, and it supports
+    both Mac and Windows layouts. [Description in
+    English](https://github.com/clackups/qmk_firmware/tree/onehanded_nuphy_air60_v2/keyboards/nuphy/air60_v2/ansi/keymaps/clackups_mirrored).
 
 
 ## Other projects
