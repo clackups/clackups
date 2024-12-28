@@ -23,7 +23,7 @@ easier accessibility (such as issuing a Ctrl-Alt-Del with one hand).
   both left and right hands. [Description in
   Ukrainian](https://github.com/clackups/qmk_userspace/blob/main/YMDK_YD60MQ_one-handed_layout_Ukrainian.pdf),
   [keymap.c comments in
-  English](keyboards/ymdk/yd60mq/keymaps/claclups_mirrored/keymap.c).
+  English](https://github.com/clackups/qmk_userspace/blob/main/keyboards/ymdk/yd60mq/keymaps/claclups_mirrored/keymap.c).
 
 
 * **NuPhy Air60 V2**, optiized for one-handed input: it's a neat
