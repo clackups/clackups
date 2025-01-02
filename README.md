@@ -13,10 +13,12 @@ produces a letter from the opposite side of the keyboard, mirrored
 along the TGB-YHN axis. They also add a few more combinations for
 easier accessibility (such as issuing a Ctrl-Alt-Del with one hand).
 
-* **[CSTC40 planck
-    keyboard](https://github.com/clackups/qmk_userspace/blob/main/ONE_HANDED_CSTC40.md)**,
+* **[CSTC40 planck keyboard (before November
+    2024)](https://github.com/clackups/qmk_userspace/blob/main/ONE_HANDED_CSTC40.md)**,
     redesigned for the left or right hand. It requires a physical work
-    on attaching the keycaps and a bit of handwriting.
+    on attaching the keycaps and a bit of handwriting. KPrepublic
+    started selling a different model of the keyboard under the same
+    name in November 2024, so this firmware would not work on it.
 
 * **YMDK YD60MQ**, optimized for one-handed input: it does not need
   any physical work to assemble, and it works for one-handed input by
