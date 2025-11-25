@@ -43,9 +43,9 @@ Outdated designs:
 it declares itself as "X.Tips X3S" in USB. See more details [in the project
 folder](https://github.com/clackups/qmk_userspace/tree/main/keyboards/clackups/xtips_x3s).
 
-
 * [Wrist controlled gamepad for a disabled user](https://github.com/clackups/wrist_gamepad).
 
+* [Chahor, an experimentakl keyboard for a user with cerebral palsy](https://github.com/clackups/chahor_rotary_keyboard)
 
 
 ## Copyright and license
