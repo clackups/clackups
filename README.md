@@ -1,4 +1,16 @@
-# Clackups Keyboard Projects
+# Clackups' Projects
+
+## Draftling, a writerdeck
+
+[Draftling](https://github.com/clackups/draftling) is a firmware project for a ESP32-S3 or ESP32-P4
+device with a screen, turning it into a word processor. You attach a BLE keyboard to it and type away. 
+It allows synchronizing your files with a Git server and supports several languages.
+
+## Smart inclusive keyboard
+
+This is a [unorganized set of work-in-progress repositories](https://github.com/Smart-Inclusive-Keyboard) aiming to 
+develop a keyboard for a user with cerenbral palsy. I will provide the documentation when it's ready. 
+See [videos](https://youtube.com/playlist?list=PLbRMZQ9npKJRurm1_IdCB4-oDc54Ccasw) for more details.
 
 ## Mirrored keyboards for one-handed input
 
@@ -28,6 +40,9 @@ input by both left and right hands. It also works for bilateral hand amputees.
     both Mac and Windows layouts. [Description in
     English](https://github.com/clackups/qmk_firmware/tree/onehanded_nuphy_air60_v2/keyboards/nuphy/air60_v2/ansi/keymaps/clackups_mirrored).
 
+* **Software keyboard mappinng** [Keymapper configurations](https://github.com/clackups/keymapper-configs-for-disabled) that
+  allow the saame one-habded input without a specialized physical keyboard.
+
 Outdated designs:
 
 * **[CSTC40 planck keyboard (before November
@@ -45,13 +60,11 @@ folder](https://github.com/clackups/qmk_userspace/tree/main/keyboards/clackups/x
 
 * [Wrist controlled gamepad for a disabled user](https://github.com/clackups/wrist_gamepad).
 
-* [Chahor, an experimentakl keyboard for a user with cerebral palsy](https://github.com/clackups/chahor_rotary_keyboard)
 
 
-## Copyright and license
+## Copyright and licenses
 
-This work is published and distributed under the [GNU GPL](LICENSE)
-terms and conditions.
+This work is published and distributed under various open-source licenses.
 
 clackups@gmail.com
 
